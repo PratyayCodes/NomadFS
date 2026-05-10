@@ -22,7 +22,7 @@
 
 <br>
 
-![NomadFS Screenshot](https://via.placeholder.com/900x500/070b14/00d4ff?text=NomadFS+Vault)
+
 
 </div>
 
